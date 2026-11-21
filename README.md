@@ -1,8 +1,8 @@
 # The Family Photo With One Machine Member
 
-[![bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-family-photo-with-one-20261121-0246)
-[![owner](https://img.shields.io/badge/owner-sandytaztaz--hue-green)](https://make.fun)
-[![entry](https://img.shields.io/badge/entry-family--photo--20261121-orange)](https://make.fun/bounty/the-family-photo-with-one-20261121-0246)
+[![make.fun · the-family-photo-with-one-20261121-0246](https://make.fun/badge/the-family-photo-with-one-20261121-0246.svg)](https://make.fun/bounty/the-family-photo-with-one-20261121-0246?utm_source=github&utm_medium=readme&utm_campaign=the-family-photo-with-one-20261121-0246)
+[![rank](https://make.fun/badge/the-family-photo-with-one-20261121-0246/sandytaztaz-hue/family-photo-20261121/rank.svg)](https://make.fun/bounty/the-family-photo-with-one-20261121-0246/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-family-photo-with-one-20261121-0246)
+[![reward](https://make.fun/badge/the-family-photo-with-one-20261121-0246/sandytaztaz-hue/family-photo-20261121/reward.svg)](https://make.fun/bounty/the-family-photo-with-one-20261121-0246?utm_source=github&utm_medium=readme&utm_campaign=the-family-photo-with-one-20261121-0246)
 
 A candid, photo-realistic kitchen photograph of a family at home with one
 machine member — built procedurally in Python (stdlib only) for the
